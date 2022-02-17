@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    
+    Service="QR_Scan.Service1" CodeBehind="Service1.svc.cs" %>

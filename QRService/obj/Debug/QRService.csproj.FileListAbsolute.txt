@@ -1,0 +1,7 @@
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\bin\QRService.dll.config
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\bin\QRService.dll
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\bin\QRService.pdb
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\obj\Debug\QRService.csproj.CoreCompileInputs.cache
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\obj\Debug\QRService.dll
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\obj\Debug\QRService.pdb
+D:\Vitalik_Z\profiles\Vitalik_Z\Documents\Visual Studio 2017\Projects\QRScan\QRService\obj\Debug\QRService.csprojResolveAssemblyReference.cache
